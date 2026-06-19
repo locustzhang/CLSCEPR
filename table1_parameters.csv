@@ -1,0 +1,21 @@
+Parameter,Symbol,Value,Unit,Source
+Transport Cost (forward),c_fwd,1.30,CNY/(t·km),CFLP 2024
+Transport Cost (reverse),c_rev,1.69,CNY/(t·km),CFLP 2024
+Carbon Emission Factor (fwd),e_fwd,1.80×10⁻⁴,t CO₂/(t·km),GB/T 32151.10-2021
+Carbon Emission Factor (rev),e_rev,2.34×10⁻⁴,t CO₂/(t·km),GB/T 32151.10-2021
+Carbon Price,p_c,97.49,CNY/t CO₂,National ETS 2024
+Carbon Cap,E_cap,"968,000",t CO₂/yr,Calibrated
+Front-hub Sorting Yield,δ,0.85,—,CPA 2024 Survey
+Central Hub Waste Loss Rate,ω,0.04,—,CPA 2024 Survey
+Remanuf. Conversion Yield,η,0.90,—,CPA 2024 Survey
+Raw Pulp Production Cost,c_raw,"3,200",CNY/t,CPA 2024 Report
+Remanuf. Pulp Production Cost,c_reman,"1,800",CNY/t,CPA 2024 Report
+Tier-1 Collection Cost (0–40%),c_t1,400,CNY/t,SF/ZT 2024 Annual
+Tier-2 Collection Cost (40–60%),c_t2,"1,200",CNY/t,SF/ZT 2024 Annual
+Tier-3 Collection Cost (60–70%),c_t3,"2,200",CNY/t,Estimated
+Disposal Cost,c_d,200,CNY/t,Industry average
+Safety Stock Ratio,σ,15%,—,CNPC 2024
+Central Hub Capacity (regular),Cap_L,"4,000,000",t/yr,Facility spec.
+Yiwu Hub Capacity,Cap_L*,"8,000,000",t/yr,Yiwu Hub spec.
+Front-hub Capacity (regular),Cap_K,"1,200,000",t/yr,Facility spec.
+Road Factor,κ,1.30,—,Geographic adj.

@@ -1,0 +1,46 @@
+Analysis,Parameter Value,Recovery Rate (%),Remanuf. Ratio (%),Total Cost (×10⁸),ΔCost vs. Base (%)
+Tier-1 Collection Cost (c_tier1),200 CNY/t,50.00,0.37,68283893001.941,-2.03
+Tier-1 Collection Cost (c_tier1),300 CNY/t,50.00,0.37,68991201001.941,-1.01
+Tier-1 Collection Cost (c_tier1),400 CNY/t,50.00,0.37,69698509001.941,+0.00
+Tier-1 Collection Cost (c_tier1),500 CNY/t,50.00,0.37,70405817001.941,+1.01
+Tier-1 Collection Cost (c_tier1),600 CNY/t,50.00,0.37,71113125001.941,+2.03
+Tier-1 Collection Cost (c_tier1),700 CNY/t,50.00,0.37,71820433134.705,+3.04
+Tier-1 Collection Cost (c_tier1),800 CNY/t,50.00,0.37,72521713550.826,+4.05
+Tier-1 Collection Cost (c_tier1),900 CNY/t,50.00,0.37,73207959145.759,+5.04
+Tier-1 Collection Cost (c_tier1),1000 CNY/t,50.00,0.37,73848546477.177,+5.95
+Remanuf. Cost (c_reman),1400 CNY/t,50.00,0.37,67101274190.705,-3.73
+Remanuf. Cost (c_reman),1500 CNY/t,50.00,0.37,67750582793.941,-2.79
+Remanuf. Cost (c_reman),1600 CNY/t,50.00,0.37,68399891529.941,-1.86
+Remanuf. Cost (c_reman),1700 CNY/t,50.00,0.37,69049200265.941,-0.93
+Remanuf. Cost (c_reman),1800 CNY/t,50.00,0.37,69698509001.941,+0.00
+Remanuf. Cost (c_reman),1900 CNY/t,50.00,0.37,70347817870.705,+0.93
+Remanuf. Cost (c_reman),2000 CNY/t,50.00,0.37,70997126606.705,+1.86
+Remanuf. Cost (c_reman),2100 CNY/t,50.00,0.37,71646435342.705,+2.79
+Remanuf. Cost (c_reman),2200 CNY/t,50.00,0.37,72295744038.705,+3.73
+Raw Pulp Cost (c_raw),2600 CNY/t,50.00,0.37,61393298446.705,-11.92
+Raw Pulp Cost (c_raw),2800 CNY/t,50.00,0.37,64161702038.705,-7.94
+Raw Pulp Cost (c_raw),3000 CNY/t,50.00,0.37,66930105606.705,-3.97
+Raw Pulp Cost (c_raw),3200 CNY/t,50.00,0.37,69698509001.941,+0.00
+Raw Pulp Cost (c_raw),3400 CNY/t,50.00,0.37,72466912521.941,+3.97
+Raw Pulp Cost (c_raw),3600 CNY/t,50.00,0.37,75235316190.705,+7.94
+Raw Pulp Cost (c_raw),3800 CNY/t,50.00,0.37,78003719718.705,+11.92
+Sorting Yield (δ),0.70,50.00,—,71054529953.519,+1.95
+Sorting Yield (δ),0.75,50.00,—,70602522934.161,+1.30
+Sorting Yield (δ),0.80,50.00,—,70150515916.227,+0.65
+Sorting Yield (δ),0.85,50.00,—,69698509001.941,+0.00
+Sorting Yield (δ),0.90,50.00,—,69246501966.763,-0.65
+Sorting Yield (δ),0.95,50.00,—,68794495040.640,-1.30
+Remanuf. Yield (η),0.75,50.00,0.31,71429999006.705,+2.48
+Remanuf. Yield (η),0.80,50.00,0.33,70852835630.319,+1.66
+Remanuf. Yield (η),0.85,50.00,0.35,70275672294.705,+0.83
+Remanuf. Yield (η),0.90,50.00,0.37,69698509001.941,+0.00
+Remanuf. Yield (η),0.95,50.00,0.39,69121345751.505,-0.83
+Carbon Price,50.0 CNY/t,50.00,—,69694203748.548,-0.01
+Carbon Price,100.0 CNY/t,50.00,—,69698736548.498,+0.00
+Carbon Price,200.0 CNY/t,50.00,—,69707802148.398,+0.01
+Carbon Price,300.0 CNY/t,50.00,—,69716867748.298,+0.03
+Carbon Price,500.0 CNY/t,50.00,—,69734999080.862,+0.05
+Carbon Price,800.0 CNY/t,50.00,—,69762195880.562,+0.09
+Carbon Price,1000.0 CNY/t,50.00,—,69780327080.362,+0.12
+Carbon Price,1500.0 CNY/t,50.00,—,69825655079.862,+0.18
+Carbon Price,2000.0 CNY/t,50.00,—,69870983079.362,+0.25
