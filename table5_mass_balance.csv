@@ -1,14 +1,14 @@
 Metric,Value,Unit
-Total Demand (with safety),20.3351,Mt/yr
-Total Collection (Tier 1+2+3),6.3381,Mt/yr
-Recovery Rate,35.8434,%
-Remanuf. Pulp Produced,4.6547,Mt/yr
-Front-hub Sorting Waste,0.9507,Mt/yr
-Central Hub Process Waste,0.2155,Mt/yr
-Factory Remanuf. Waste,0.5172,Mt/yr
-Total Waste,1.6834,Mt/yr
-Mass Balance Check (Reman+Waste),6.3381,Mt/yr
-Mass Balance Error,0.042000,t
-Mass Balance Error (%),0.00000066,%
+Total Paper-based Demand (with safety),10.2261,Mt/yr
+Total Collection (Tier 1+2+3),2.7747,Mt/yr
+Recovery Rate,31.2035,%
+Remanuf. Pulp Produced,2.0377,Mt/yr
+Front-hub Sorting Waste,0.4162,Mt/yr
+Central Hub Process Waste,0.0943,Mt/yr
+Factory Remanuf. Waste,0.2264,Mt/yr
+Total Waste,0.7370,Mt/yr
+Mass Balance Check (Reman+Waste),2.7747,Mt/yr
+Mass Balance Error,-0.031000,t
+Mass Balance Error (%),-0.00000112,%
 Effective Conversion Rate,73.44,%
 Theoretical Effective Yield,73.44,%
